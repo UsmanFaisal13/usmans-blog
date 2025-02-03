@@ -11,8 +11,8 @@ export default function ContactPage() {
                         </div>
 
                         <p className="text-gray-600 leading-relaxed">
-                            Have a question or feedback? We'd love to hear from you. Send us an email
-                            and we'll respond as soon as possible.
+                            Have a question or feedback? We&apos;d love to hear from you. Send us an email
+                            and we&apos;ll respond as soon as possible.
                         </p>
 
                         <div className="space-y-4">

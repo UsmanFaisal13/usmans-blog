@@ -9,7 +9,7 @@ export default function AboutSection() {
                         <div className="w-20 h-1 bg-blue-600" />
                         <p className="text-gray-600 leading-relaxed">
                             STEM NEWS is your premier source for the latest developments in Science,
-                            Technology, Engineering, and Mathematics. Founded in 2024, we've dedicated
+                            Technology, Engineering, and Mathematics. Founded in 2024, we&apos;ve dedicated
                             ourselves to making complex STEM topics accessible to everyone.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
